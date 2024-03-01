@@ -1,0 +1,2 @@
+/home/revendel/IdeaProjects/lb5_3_7/input.txt
+/home/revendel/IdeaProjects/lb5_3_7/output.txt
